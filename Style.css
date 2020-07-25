@@ -1,0 +1,38 @@
+
+h1{
+    color:rgb(15,10,50);
+} 
+
+h2{
+    color:rgb(200,150,60);
+}
+
+
+.vib{
+    background-color: rgb(200,20,10);
+    display:flex;
+    justify-content:space-between;
+    margin-right: 50;
+
+}
+
+
+
+.events{
+    background-color: rgb(100,200,200);
+    /*flex-direction:column;*/
+    display:flex;
+    justify-content:space-between;
+    margin-left:200;
+
+}
+
+.about{
+    background-color:rgb(255, 0, 200);
+    align-self: baseline; 
+    margin-left: 0;
+}
+
+.exp{
+background-color:rgb(144,30,90);
+}
